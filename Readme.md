@@ -1,5 +1,7 @@
 # Roteiro para criar uma aplicação chatbot exemplo (front-> react, back-> FastAPI)
 
+############# trocar 127.0.0.1 para localhost quando for desenvolver em windows ###################################
+
 ## 1. Para gerenciar as versões do Node
 ```
 nvm ls #lista versoes instaladas do node
